@@ -74,7 +74,6 @@ while True:
         
         gren.value(0)
         lcd.clear()
-        #webbrowser.open('https://edluciuz.github.io/pls-help/')
         
         continue
     
